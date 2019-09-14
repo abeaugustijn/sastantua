@@ -1,0 +1,6 @@
+**/*.out
+**/*temp*
+**/*.swp
+sastantua
+ft_putchar.c
+main.c
